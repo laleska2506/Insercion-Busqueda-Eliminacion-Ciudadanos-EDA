@@ -1,4 +1,4 @@
-# Backend Proyecto de EDA Avanzada
+# Proyecto de Estructuras de Datos Avanzada
 API construída en C++ con Pistache
 ## Instrucciones de uso
 ### Requisitos
@@ -6,7 +6,7 @@ Tener [Docker](https://www.docker.com/get-started/) previamente instalado
 ### Pasos
 1. Clona el repositorio
 ```bash
-git clone https://github.com/Julianqll/edavProyectoBackend
+git clone https://github.com/laleska2506/Insercion-Busqueda-Eliminacion-Ciudadanos-EDA.git
 ```
 2. Ingresa a la carpeta del repositorio clonado
 ```bash
